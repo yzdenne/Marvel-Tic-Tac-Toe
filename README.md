@@ -1,1 +1,1 @@
-# Marvel-Tic-Tac-Toe
+Neste projeto, desenvolvemos um site baseado em um modelo anterior, destacando melhorias no design e na funcionalidade. Foram realizadas alterações em imagens, fontes, cores e layout, utilizando HTML, CSS e JavaScript. O trabalho foi desenvolvido no Curso Técnico em Informática, com o objetivo de aprimorar as habilidades em desenvolvimento web e personalização de projetos.
